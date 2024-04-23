@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/ece230/Vivado/pipeFSM01/pipeFSM01.srcs/sources_1/new/pipeFSM01.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipeFSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/ece230/Vivado/pipeFSM01/pipeFSM01.srcs/sim_1/new/pipeFSM01_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipeFSM_tb

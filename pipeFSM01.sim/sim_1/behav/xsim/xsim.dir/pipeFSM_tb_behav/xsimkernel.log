@@ -1,0 +1,7 @@
+Running: xsim.dir/pipeFSM_tb_behav/xsimk.exe -simmode gui -wdb pipeFSM_tb_behav.wdb -simrunnum 0 -socket 56721
+Design successfully loaded
+Design Loading Memory Usage: 7112 KB (Peak: 7112 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 7740 KB (Peak: 7740 KB)
+Simulation CPU Usage: 0 ms
