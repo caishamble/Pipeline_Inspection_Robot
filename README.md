@@ -7,7 +7,7 @@ detected problems. Additionally, a Finite State Machine (FSM) is designed to dia
 corresponding Verilog code is implemented. Besides, simulation tests using two sets of predefined data are
 conducted and the waveforms are generated to compare the detection results.
 
-This project initially started from _ECE230 (Digital Logic Fundamental) _as a class project, later I expanded the result and further research, and now the result has been published on SSRN.
+This project initially started from _ECE230 (Digital Logic Fundamental)_ as a class project, later I expanded the result and further research, and now the result has been published on SSRN.
 
 **SSRN Link:**
 
